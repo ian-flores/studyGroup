@@ -20,9 +20,9 @@ description: "Pagina para coordinar asambleas de pueblo"
 # Optional Configuration
 # None of these things need to be changed - but feel free!
 
-titleBackground: "https://s3-us-west-2.amazonaws.com/webmaker-kits/learning%402x.jpg"
-headlineSmall: "Welcome To Our Study Group!"
-headlineMain: "Let's Work Together"
+titleBackground: "https://timedotcom.files.wordpress.com/2019/07/puerto-rico-ricky-protests-lede.jpg"
+headlineSmall: "Bienvenidx a las Asambleas de Pueblo"
+headlineMain: "Vamos a trabajar juntxs!"
 
 # Setup Google Calendar
 # Usage:
