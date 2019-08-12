@@ -2,12 +2,12 @@
 #Follow these 2 steps to set up your site.
 
 #Step 1: change YourUserName to the user name you chose on GitHub:
-user: UBC-R-Study-group
+user: ian-flores
 
 #Step 2: give your study group a name and a short description:
-title: R Study Group
+title: Asambleas de Pueblo
 
-description: "A study group."
+description: "Pagina para coordinar asambleas de pueblo"
 
 #Step 2: press the green 'Commit Changes' button at the bottom of this page.
 
